@@ -32,6 +32,22 @@ Os dados são públicos e foram utilizados exclusivamente para fins educacionais
 
 ## Resultados
 
-Dashboard Final
+Dashboard Principal
 
-![Dashboard de mortalidade](images/panorama-cancer-de-prostata-sudeste-2023.png)
+![Dashboard de mortalidade](images/dashboardprincipal.png)
+
+Espírito Santo
+
+![Dashboard de mortalidade](images/dashboardes.png)
+
+Rio de Janeiro
+
+![Dashboard de mortalidade](images/dashboardrj.png)
+
+Minas Gerais
+
+![Dashboard de mortalidade](images/dashboardmg.png)
+
+São Paulo
+
+![Dashboard de mortalidade](images/dashboardsp.png)
